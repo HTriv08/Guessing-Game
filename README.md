@@ -10,3 +10,5 @@ Now you have succesfully ran the game !
 
 # Error?
 Make sure you have Rust installed on your system
+
+<p align="center"><img width="256" height="256" src="https://github.com/HTriv08/picture/blob/main/Screenshot%202024-10-18%20134807.png"></p>
